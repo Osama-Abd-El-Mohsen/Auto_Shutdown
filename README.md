@@ -16,4 +16,4 @@ This repository contains a simple Python script for automating the shutdown of y
 
 
 ## Download
-[Click Me](https://github.com/Osama-Abd-El-Mohsen/URL_Shortener/releases/tag/V1.1)
+[Click To Downlaod](https://github.com/Osama-Abd-El-Mohsen/Auto_Shutdown/releases/tag/V1.4)
