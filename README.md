@@ -1,4 +1,5 @@
 # Auto_Shutdown WITH GUI 🤩
+new GUI with Figma & tkinter soon
 
 ## Description
 
